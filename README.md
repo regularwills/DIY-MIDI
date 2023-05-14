@@ -7,6 +7,7 @@ This was used for a arduino leonardo but can be used for a micro and other board
   <div id="banner">
     <div class="inline-block">
         <img src="https://github.com/regularwills/DIY-MIDI/assets/40306471/ceb598ab-f171-4d23-8543-b2fbfea3d1af" width="200" />
+        <img src="https://github.com/regularwills/DIY-MIDI/assets/40306471/ac0b3408-819c-46d8-8fed-fd2e1d11c285" width="200" />
     </div>
 
     <div class="inline-block">
