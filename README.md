@@ -16,6 +16,6 @@ This was used for a arduino leonardo but can be used for a micro and other board
 This was a basic prototype using the same code adjusted for 4 buttons and 1 potentiometer knob. The circuit diagram shows the basic layout
 which can be adjusted for any number of I/O pins
 
-<img src="https://github.com/regularwills/DIY-MIDI/assets/40306471/bd799f87-26fb-4bb4-af77-fe4d4863863a" width="500" />
+<img src="https://github.com/regularwills/DIY-MIDI/assets/40306471/bd799f87-26fb-4bb4-af77-fe4d4863863a" width="600" />
 <img width="400" src="https://github.com/regularwills/DIY-MIDI/assets/40306471/c734dc50-7b98-46a4-8c3c-b0e43c56e2d1">
 
