@@ -36,7 +36,7 @@ int potPState[TOTAL_POTS] = {0};                            // Previous state of
 int potStateDifference = 0;                                 // Difference between the current and previous states
 
 int midiCState[TOTAL_POTS] = {};                            // Current state of midi value
-int midiPState[TOTAL_POTS] = {0};                           // Previous stae of midi value
+int midiPState[TOTAL_POTS] = {0};                           // Previous state of midi value
 
 const int TIMEOUT = 300;                                    // Amount of time the potentiometer will be read after it exceeds the varThreshold
 const int varThreshold = 10;                                // * Threshold for the potentiometer signal variation
