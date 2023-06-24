@@ -1,7 +1,7 @@
-# DIY MIDI Controller By Will May (2022)
+# DIY MIDI Controller 
 
-Generalized source code used to upload to any arduino board with USB capabilities. Dependent on the Arduio IDE MIDIUSB library.
-This was used for a arduino leonardo but can be used for a micro and other boards as well. Capable of being recongnized as a MIDI controller through any music production software.
+Generalized source code used to upload to any Arduino board with USB capabilities. Dependent on the Arduino IDE MIDIUSB library.
+This was used for an Arduino Leonardo but can also be used for a micro and other boards. Capable of being recognized as a MIDI controller through any music production software.
 
 # Final Product using a 3D Printed shell, arcade buttons, 2 rotary knobs, and custom jumper wires
   <div id="banner">
@@ -13,7 +13,7 @@ This was used for a arduino leonardo but can be used for a micro and other board
   </div>
 
 # Basic prototype using only 4 buttons and 2 potentiometer knobs
-This was a basic prototype using the same code adjusted for 4 buttons and 1 potentiometer knob. The circuit diagram shows the basic layout
+This prototype used the same code adjusted for 4 buttons and 1 potentiometer knob. The circuit diagram shows the basic layout
 which can be adjusted for any number of I/O pins
 
 <img src="https://github.com/regularwills/DIY-MIDI/assets/40306471/bd799f87-26fb-4bb4-af77-fe4d4863863a" width="600" />
