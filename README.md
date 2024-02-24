@@ -1,5 +1,4 @@
-# DIY MIDI Controller
-# Source code and documentation for a fun embedded project I made for a musical protocol digital instrument
+# DIY MIDI Controller: Source code and documentation for a fun embedded project I made for a musical protocol digital instrument
 
 Generalized source code used to upload to any Arduino board with USB capabilities. Dependent on the Arduino IDE MIDIUSB library.
 This was used for an Arduino Leonardo but can also be used for a micro and other boards. Capable of being recognized as a MIDI controller through any music production software.
