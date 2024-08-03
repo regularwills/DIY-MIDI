@@ -7,11 +7,18 @@ This was used for an Arduino Leonardo but can also be used for a micro and other
 # Final Product using a 3D Printed shell, arcade buttons, 2 rotary knobs, and custom jumper wires
   <div id="banner">
     <div class="inline-block">
-        <img src="https://github.com/regularwills/DIY-MIDI/assets/40306471/ceb598ab-f171-4d23-8543-b2fbfea3d1af" width="300" />
-        <img src="https://github.com/regularwills/DIY-MIDI/assets/40306471/ac0b3408-819c-46d8-8fed-fd2e1d11c285" width="300" />
-       <img src="https://github.com/regularwills/DIY-MIDI/assets/40306471/c6887712-c6d3-41fd-b312-2c382bf0c93f" width="300" />
+        <img src="https://github.com/user-attachments/assets/5c827483-fb9b-414b-84c1-79a79012b26d" width="300" />
+        <img src="https://github.com/user-attachments/assets/60112dce-4a9f-48c5-b202-7cba69ab954d" width="300" />
     </div>
   </div>
+
+# Check out how it plays! 🎹
+<div>
+  <div align="center">
+  <iframe width="560" height="315" src="https://youtube.com/shorts/WRnCULBJH7g" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+</div>
 
 # Basic prototype using only 4 buttons and 2 potentiometer knobs
 This prototype used the same code adjusted for 4 buttons and 1 potentiometer knob. The circuit diagram shows the basic layout
