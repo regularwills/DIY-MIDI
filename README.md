@@ -18,5 +18,5 @@ This prototype used the same code adjusted for 4 buttons and 1 potentiometer kno
 which can be adjusted for any number of I/O pins
 
 <img src="https://github.com/regularwills/DIY-MIDI/assets/40306471/bd799f87-26fb-4bb4-af77-fe4d4863863a" width="600" />
-<img width="400" src="https://github.com/regularwills/DIY-MIDI/assets/40306471/c734dc50-7b98-46a4-8c3c-b0e43c56e2d1">
+<img width="400" height="250" src="https://github.com/regularwills/DIY-MIDI/assets/40306471/c734dc50-7b98-46a4-8c3c-b0e43c56e2d1">
 
