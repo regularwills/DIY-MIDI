@@ -14,10 +14,7 @@ This was used for an Arduino Leonardo but can also be used for a micro and other
 
 # Check out how it plays! 🎹
 <div>
-  <div align="center">
-  <iframe width="560" height="315" src="https://youtube.com/shorts/WRnCULBJH7g" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+  <source src="https://github.com/user-attachments/assets/32875686-3310-410b-b310-57de2f0ec1aa" type="video/mp4">
 </div>
 
 # Basic prototype using only 4 buttons and 2 potentiometer knobs
