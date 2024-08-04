@@ -14,7 +14,7 @@ This was used for an Arduino Leonardo but can also be used for a micro and other
 
 # Check out how it plays! 🎹
 <div>
-  <video src='https://youtube.com/shorts/WRnCULBJH7g' width=180/>
+  [<img src="https://img.youtube.com/shorts/WRnCULBJH7g/maxresdefault.jpg" width="50%">](https://youtu.be/shorts/WRnCULBJH7g)
 </div>
 
 # Basic prototype using only 4 buttons and 2 potentiometer knobs
