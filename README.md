@@ -11,7 +11,7 @@ This was used for an Arduino Leonardo but can also be used for a micro and other
     </div>
   </div>
 
-#<a href="https://youtube.com/shorts/WRnCULBJH7g"> Check out how it plays here! 🎹</a>
+# <a href="https://youtube.com/shorts/WRnCULBJH7g"> Check out how it plays here! 🎹</a>
 
 # Basic prototype using only 4 buttons and 2 potentiometer knobs
 This prototype used the same code adjusted for 4 buttons and 1 potentiometer knob. The circuit diagram shows the basic layout
